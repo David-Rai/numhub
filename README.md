@@ -7,6 +7,10 @@ A modern React-based admin dashboard application with Supabase backend for manag
 - **🌐 Live Website**: [https://numhub.netlify.app](https://numhub.netlify.app)
 - **📂 Repository**: [https://github.com/david-rai/numhub.git](https://github.com/david-rai/numhub.git)
 
+## Design
+<img src="./Design/1.png"/>
+<img src="./Design/2.png"/>
+<img src="./Design/3.png"/>
 ## 📋 Overview
 
 NumHub is a personal admin dashboard that allows you to:
